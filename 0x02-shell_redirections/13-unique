@@ -1,2 +1,2 @@
 #!/bin/bash
-cat sort_file|sort -d|uniq 
+sort -t|uniq 
