@@ -1,0 +1,2 @@
+#!/bin/bash
+read inpStr ; echo "$inpStr"| rev
