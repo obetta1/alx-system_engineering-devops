@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $(printf "%X" $(( 16#$WATER + 16#$STIR ))) | tr '[:upper:]' '[:lower:]'
+
